@@ -1,0 +1,7 @@
+#Curso para iniciantes do GitHub
+
+Este é um repositório teste para ensinar como o Git funciona.
+
+Saiba mais em [judsonpaiva.co.ao](https:\\judsonpaiva.co.ao)
+
+Gostou do curso?
